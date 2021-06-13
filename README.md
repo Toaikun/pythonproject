@@ -1,7 +1,7 @@
-#NumPy library Demo App
+# NumPy library Demo App
 This simple tkinter application may introduce to you some basic methods of a NumPy library
 
-##How to use
+## How to use
 1. Select method from the ListBox in the left side of an app
 2. Press <Select> button
 3. Information about this method should appear on the screen:
